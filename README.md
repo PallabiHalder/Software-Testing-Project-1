@@ -19,7 +19,7 @@ RTM
 Test Reports
 Test Metrics
 
-Project 1
+**Project 1**
 Test Plan
 Test Cases
 Bug Report
